@@ -1,0 +1,19 @@
+#btn{
+
+height: 50px;
+width: 150px;
+border-radius: 30px;
+background-color: black;
+color: white;
+cursor: pointer;
+margin-left: 55px;
+}
+
+
+#btn:hover{
+    background-color: white;
+    color: black;
+}
+form>input{
+    font-weight: bolder;
+}
